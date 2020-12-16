@@ -48,4 +48,6 @@ Cscms 使用手册:         http://www.chshcms.com/help.html
 Cscms 商业授权购买：    http://www.chshcms.com/buy.html
 Cscms 商业用户支持：    http://bbs.chshcms.com/lists/15.html
 
-有任何问题随时可以留言
+> 有任何问题随时可以留言	
+
+> 同步更新github和码云	
