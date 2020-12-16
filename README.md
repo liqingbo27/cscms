@@ -24,7 +24,7 @@ http://www.chshcms.com/down.html
 * 4. 使用nginx 必须开启 pathinfo
 
 ## 安装方法
-### 1. 上传 upload 目录中的文件到服务器
+### 1. 上传 ``upload`` 目录中的文件到服务器
 ### 2. 设置目录属性
 ```
 	以下这些目录需要可读写权限, 含子目录
