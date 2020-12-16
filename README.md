@@ -12,18 +12,18 @@ V4.x在保留3.5版的特点的同时，对新版本作出重大的创新，为�
 
  **演示地址：** [http://diaosheng.liqingbo.com/](http://diaosheng.liqingbo.com/)
 
-## Cscms 多元化内容管理系统的下载
+## 系统的下载
 您可以随时从我们的官方下载站下载到最新版本，以及各种补丁
 http://www.chshcms.com/down.html
 
-## Cscms 多元化内容管理系统的环境需求 
+## 环境需求 
 
 * 1. 可用的 www 服务器，如 Apache、Zeus、IIS、nginx 等
 * 2. php 5.0.0 及以上
 * 3. MySQL 5.0.0 及以上，仅针对 MySQL 版
 * 4. 使用nginx 必须开启 pathinfo
 
-## Cscms 多元化内容管理系统的安装
+## 安装方法
 ### 1. 上传 upload 目录中的文件到服务器
 ### 2. 设置目录属性
 ```
@@ -38,7 +38,7 @@ http://www.chshcms.com/down.html
    请在浏览器中运行 install 程序，即访问 http://您的域名/install.php
 ### 4. 参照页面提示，进行安装，直至安装完毕
 
-## Cscms 多元化内容管理系统的技术支持
+## 技术支持
 当您在安装、升级、日常使用当中遇到疑难，请您到以下站点获取技术支持。
 
 Cscms 讨论区：          http://bbs.chshcms.com/
@@ -47,3 +47,5 @@ Cscms 使用手册:         http://www.chshcms.com/help.html
 
 Cscms 商业授权购买：    http://www.chshcms.com/buy.html
 Cscms 商业用户支持：    http://bbs.chshcms.com/lists/15.html
+
+有任何问题随时可以留言
